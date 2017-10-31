@@ -1,5 +1,5 @@
 {
-  "name": "maarky/Lazy",
+  "name": "maarky/lazy",
   "description": "Lazy Loader",
   "keywords": ["php","lazy load"],
   "type": "library",
